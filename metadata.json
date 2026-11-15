@@ -1,0 +1,8 @@
+{
+  "name": "TruthLens AI",
+  "description": "An intelligent fact-verification platform that identifies potentially outdated information in AI-generated answers and checks it against current web evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
